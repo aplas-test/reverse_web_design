@@ -1,21 +1,25 @@
 {
-  "id": "reverse_web_design",
-  "name": "Reverse Web Design",
-  "categoryId": "finance",
-  "description": "Seamless clear-thinking parallelism",
-  "investment_24m": "607",
-  "hostedtype": "OnPremise",
-  "licensing_cost": "85",
-  "status_color": "#FFFF00",
-  "type": "OffShelf",
-  "support_cost": "140",
-  "deployment_date": "25/2/09",
-  "end_of_maintenance": "31/10/17",
-  "department": "Engineering",
-  "status": "Sunsetting",
-  "end_of_life": "1/5/19",
-  "sme_name": "Maggi Tedstone",
-  "months_to_renew_support": "31",
-  "sme_email": "Maggi.Tedstone@memento.net.au",
-  "investment_number": "382"
+  "applications": [
+    {
+      "id": "reverse_web_design",
+      "name": "Reverse Web Design",
+      "categoryId": "finance",
+      "description": "Seamless clear-thinking parallelism",
+      "investment_24m": "607",
+      "hostedtype": "OnPremise",
+      "licensing_cost": "85",
+      "status_color": "#FFFF00",
+      "type": "OffShelf",
+      "support_cost": "140",
+      "deployment_date": "25/2/09",
+      "end_of_maintenance": "31/10/17",
+      "department": "Engineering",
+      "status": "Sunsetting",
+      "end_of_life": "1/5/19",
+      "sme_name": "Maggi Tedstone",
+      "months_to_renew_support": "31",
+      "sme_email": "Maggi.Tedstone@memento.net.au",
+      "investment_number": "382"
+    }
+  ]
 }
