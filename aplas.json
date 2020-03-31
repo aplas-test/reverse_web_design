@@ -19,7 +19,28 @@
       "sme_name": "Maggi Tedstone",
       "months_to_renew_support": "31",
       "sme_email": "Maggi.Tedstone@memento.net.au",
-      "investment_number": "382"
+      "investment_number": "382",
+      "integrations": [
+        {
+          "id": "int-355",
+          "name": "INT-355",
+          "categoryId": "f584fe23-c532-404a-bf69-4bcbcea094d3",
+          "description": "Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis. Fusce posuere felis sed lacus.",
+          "sourceApplicationId": "reverse_web_design",
+          "targetApplicationId": "hyperlocal",
+          "logical_server": "ONLINE",
+          "status_color": "#00FF00",
+          "pattern": "Aggregator",
+          "golive_date": "4/8/04",
+          "sme_name": "Tonya Oldcroft",
+          "datacentre": "Altona",
+          "department": "Integration",
+          "status": "Active",
+          "sme_email": "toldcrofti@memento.net.au",
+          "complexity": "Low",
+          "last_deployment_date": "18/7/17"
+        }
+      ]
     }
   ]
 }
