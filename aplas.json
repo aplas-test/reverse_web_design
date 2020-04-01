@@ -26,7 +26,6 @@
           "name": "INT-355",
           "categoryId": "f584fe23-c532-404a-bf69-4bcbcea094d3",
           "description": "Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis. Fusce posuere felis sed lacus.",
-          "sourceApplicationId": "reverse_web_design",
           "targetApplicationId": "hyperlocal",
           "logical_server": "ONLINE",
           "status_color": "#00FF00",
